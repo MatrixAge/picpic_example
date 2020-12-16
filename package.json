@@ -1,6 +1,6 @@
 {
   "name": "picpic_example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "picpic example",
   "scripts": {
     "init": "picpic init",
@@ -9,6 +9,6 @@
   "author": "matrixage",
   "license": "MIT",
   "devDependencies": {
-    "@matrixage/picpic": "^1.2.8"
+    "@matrixage/picpic": "^1.2.9"
   }
 }
