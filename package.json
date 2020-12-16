@@ -9,6 +9,6 @@
   "author": "matrixage",
   "license": "MIT",
   "devDependencies": {
-    "@matrixage/picpic": "^1.2.7"
+    "@matrixage/picpic": "^1.2.8"
   }
 }
