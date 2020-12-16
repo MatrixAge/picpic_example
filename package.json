@@ -1,0 +1,14 @@
+{
+  "name": "picpic_example",
+  "version": "1.0.0",
+  "description": "picpic example",
+  "scripts": {
+    "init": "picpic init",
+    "build": "picpic build"
+  },
+  "author": "matrixage",
+  "license": "MIT",
+  "devDependencies": {
+    "@matrixage/picpic": "^1.2.7"
+  }
+}
